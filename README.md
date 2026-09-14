@@ -1,4 +1,4 @@
-# Primal Island
+# Lizard Lounge
 
 Homepage for The Lizard Lounge Isle: Evrima server.
 
