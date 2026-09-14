@@ -1,8 +1,8 @@
 # Primal Island
 
-Homepage for the Primal Island Isle: Evrima server.
+Homepage for The Lizard Lounge Isle: Evrima server.
 
-**Live:** https://primal-island.primal-island-hosting.workers.dev/
+**Live:** https://primal-island.lizard-lounge.workers.dev/
 
 ## Structure
 - `index.html` — homepage
@@ -21,4 +21,4 @@ Homepage for the Primal Island Isle: Evrima server.
 ## Deploy
 Push these files to the GitHub repo. Cloudflare will redeploy automatically.
 
-Replace every `https://discord.gg/YOUR-INVITE` with your real invite once the Discord server exists.
+Replace every `https://discord.gg/Ff93EYrWE` with your real invite once the Discord server exists.
